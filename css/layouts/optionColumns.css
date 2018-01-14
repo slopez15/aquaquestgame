@@ -6,7 +6,8 @@
 } */
 
 div.option{
-  visibility:visible;
+  /* visibility:visible; */
+  color: white;
 }
 div.option:hover {
   color: black;
