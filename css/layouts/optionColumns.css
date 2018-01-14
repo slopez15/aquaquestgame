@@ -1,0 +1,39 @@
+/* @keyframes changeColor {
+    to {
+      background: lightblue;
+      color: silver;
+    }
+} */
+
+div.option{
+  visibility:visible;
+}
+div.option:hover {
+  color: black;
+  background: lightgrey;
+  /* animation-name: changeColor;
+  animation-duration: 1s; */
+}
+span.option1 {
+  background-color: green;
+  font-weight: bold;
+  float: left;
+  /* padding: 10px;
+  margin: 10px;
+  width: 50%; */
+}
+span.option2 {
+  background-color: red;
+  font-style: italic;
+  font-weight: bold;
+  float: right;
+  /* padding: 10px;
+  margin: 10px;
+  width: 50%; */
+}
+span.normal {
+  clear: both;
+  /* padding: 10px;
+  margin: 10px;
+  width: 50%; */
+}

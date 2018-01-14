@@ -1,0 +1,163 @@
+You come to the base of the mountain and learn of the peril you're about to experience.
+You notice a river circling the base of the mountain the liquid so filthy you can't tell if it's even water anymore.
+The elder's voice echoing through your head "884 million people have to drink water this dirty or worse!"
+
+There seems to be no easy way up the mountain, you begin to climb with caution....
+
+After climbing for what seems like hours you stumble upon a small cave entrance.
+Going in here could make it easier to get up the mountain! 
+Do you go in?(Karma Neutral)
+
+if yes:
+
+It's a tight squeeze, but you manage to get into the cave.
+There seems to light further into the cave.
+After traversing the cave, you emerge on the top of the mountain.
+There you notice a wall of thick fog is surrounding the mountain, blocking any view.
+
+if no:
+
+You decide to not waste time but rather continue your journey up the steep terrain.
+After a treacherous journey up the mountain you reach what has to be the peak.
+Looking behind you, the view of the desert you expected is instead blocked by a wall of immense fog.
+
+Where they join:
+The air is heavy, each breath a challenge.
+You look around the peak of the mountain and notice a pool of water.
+The water is extremely dirty except the far side, which a small stone is resting atop a boulder.
+A circle of clean water surrounds the stone.
+
+This has to be the ancient stone the elders mentioned!
+
+Do you run in and grab it, or walk around the edge of the mountain's peak to grab it carefully?(Karma Neutral)
+
+if walk through water:
+
+Walking through the water, unsure of how deep it is you are quickly up to your waist in water.
+You grab the stone and notice the water become completely dirty as soon as you remove it.
+Then the water starts to heat up, so you quickly get out.
+
+if walking around the mountain:
+
+You carefully walk around the water on the edge of the mountain, consciously traversing the rocks.
+Finally, you reach the stone.
+You take it off the boulder and go back to the entrance to the pools.
+
+JOIN HERE:
+
+You look at the water and see it slowly start to bubble!
+The water, now scalding, starts to crack the weak earth beneath it, shaking the ground.
+Through the crack you see a bright red light, it's magma! The mountain is a Volcano!
+The volcano has been awoken by taking the stone!
+
+In panic you hurry back to the path down the mountain, only to see that down the entire volcano, lava is pouring onto the path
+Looking desperately for another path, you look behind you only to be plagued by the lava level rising, cascading toward you!
+Do you try to go down the path or go on a higher rock?
+
+path:
+
+Choosing to get off the volcano as quick as possible, you begin to traverse the path.
+
+higher rock:
+
+You decide to get away from the lava no matter the cost!
+You climb a nearby rock and get above the lava's level, but the level is rising!
+You see an opening in the lava's path of destruction and decide to go down!
+
+JOIN HERE:
+
+Going down the volcano you see a bird's wing trapped under a rock trying to fly away
+Do you help the pinned bird and risk your journey, or do you consider countless people depending on you and flee?(help = +5 Karma, not help = -5 Karma)
+
+HELP:
+
+You struggle to get to the bird but manage to free it from the rock, letting it fly away.
+On the other side of where the bird was stuck is an open path leading to the bottom.
+You take the easy path and race down the volcano being chased by an avalanche of lava.
+
+No help:
+
+You can't stop! Lava is right behind you and there's no risking it now!
+The journey is nearly impossible, dodging every falling rock while being chased by the endless cascade of lava.
+
+JOIN HERE:
+
+Finally reaching the bottom, you get as far away from the volcano as possible!
+When finally safe from the barrage of flaming boulders, you prepare to embark on the journey to the cave unable to spend any time resting.
+You pull out the tattered map given to you by the elders.
+Faintly, you see the location of the cave past a river nearby painted with a barely visible ink.
+
+Heading toward the river you see another village near the water.
+Going through the village, you notice the damage done by the lack of clean water.
+
+Finally, a old bridge approaches that extends to the other side of the river. 
+As you cross, every step sends chills down your spine, terrified of the thought of falling in. 
+You think to yourself 'In the very near future, billions of people could be forced to drink this. I have to do this.'
+
+The cave is not far now.
+You see it come into view but the cave looks ominous.
+
+You approach the cave with caution. Once inside however, you feel a calm wave cascade over your body.
+You follow a narrow path for what seems like miles, rocks project at you from every direction.
+
+Reaching the end, your vision encapsulates a boulder with a hole the perfect size for the rock!
+A waterfall showers the boulder and runs down into a dark pool standing between you and the boulder.
+Seeking the fastest route, you jump into the pool and begin to wade through the enormously deep pool in front of you.
+
+Walking into the water you feel the water becoming thicker.
+Looking down you see the water becoming more polluted with every second.
+You try to hurry to the boulder, but before you're able to reach it a large sludge covered monster rises from the water.
+You attempt to back out of the water as the monster lets out a booming roar.
+You manage drag yourself out and hide behind a large rock nearby.
+
+There, you realize the monster could only be one thing: Pollutoron!
+You know you have to get the rock in the boulder to stop him, it's the only way!
+You peak around cover you now notice that there's three paths:
+A ramp that goes above his head so you could jump on the boulder from above
+A covered path that you could go around the monster and try and sneak the stone into the hole
+Or you could charge through and run past him, the fastest but riskiest way!
+
+Ramp:
+
+You run above the monster and jump down while Pollutoron struggles to turn toward you.
+Landing right in front of the boulder you place the stone into the boulder.
+
+Covered:
+
+Running along the covered path you dodge balls of slime hurled at you from Pollutoron.
+Emerging at a secret entrance right next to the boulder you quickly put the stone into the boulder.
+
+Charge:
+
+Charging straight for the boulder you almost dodge Pollutoron, however he catches you.
+Pollutoron hurls you, sending you flying onto the top ramp, he tries to follow you, but this leaves an opening.
+You manage to jump down above Pollutoron and make a dash for the boulder, placing it inside.
+
+JOIN:
+
+The stone emits a light!
+As the water around the boulder becomes cleaner with every passing second.
+Pollutoron slowly decaying letting out screams of anguish toward you!
+
+Good:
+
+You have just made all water on earth drinkable! Potentially saving 884 Million lives!
+
+Bad:
+
+Despite you valiant efforts, the water slowly became dirty over time again due to your impure actions. Try again to attempt at having a different ending!
+
+JOIN:
+
+Sadly, this issue is real, but the solution is not. 
+Helping the people suffering from this globally reaching issue is not as simple as putting a magic stone into a boulder.
+But that does not mean that all hope is lost! 
+There are a variety of organizations listed below that are dedicated to helping solve this problem that could use your help!
+
+http://www.thesilverlining.com/safety
+https://www.sjwater.com/blog/how-sjw-uses-cutting-edge-water-loss-prevention-tech
+https://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/WaterSystemDesignandPlanning/WaterUseEfficiency/ControllingWaterLoss
+
+Every dollar spent on safe water production generates eight dollars from not needing healthcare to treat the water illnesses.
+Your decisions here may only affect your character's quest, 
+but your decisions in reality may mean the world to one of the billions of people needing clean water.

@@ -1,0 +1,107 @@
+This program is designed to raise awareness
+for water deprivation in the form of a game.
+
+Getting to the end will prove your knowledge
+of this globally spread issue.
+
+-----------------------------------------------------------
+
+You are an explorer going on an adventure
+in the lost lands of the Savanna Desert.
+But the plane you were flying over the desert was shot down...
+
+You are now stranded in the middle of the desert...
+
+-----------------------------------------------------------
+
+After crawling out of the crumbling plane wreckage
+you cough and look for a drink of water.
+Running out of time due to dehydration, do you check
+the plane wreckage for supplies or move toward the smoke in the distance?
+1 = Search Plane, 2 = Go Toward Smoke
+
+(1)
+You manage to squeeze into the plane to search for supplies.
+You finally notice a first aid kit and manage to pry it open
+revealing only a few bandages and some gauze.
+When you try to reach for the supplies a metal bar crashes in front of you
+blocking your path to the supplies.
+You quickly escape the plane and collapse in the sand outside...
+(end 1)
+(2)
+Traversing into the barren landscape, you seem to walk endlessly.
+Your vision fades as the smoke seems to be traveling even further away.
+You collapse from dehydration...
+(end 2)
+
+You slowly awaken to the view of straw above your head.
+You roll your head to the side to reveal what seems to be a way out of the hut.
+
+You get out of your straw bed and look down seeing marks all over your body.
+After leaving the hut you emerge to find a large group of people gathered.
+From the crowd emerges an elder character covered with marks matching yours.
+
+The elder says a chant and everyone in the crowd cheers.
+He approaches you and tells you, 'I am so honored to meet you!'
+
+Do you return the Gesture or ask where you are?
+1 = Say you're honored, 2 = Where am I?
+
+(1)
+They reply 'Yes, we have much to discuss, follow...'
+(end 1)
+(2)
+They reply 'All in good time, we have much to discuss, follow...'
+(end 2)
+
+The elder leads you through a small village surrounded by barren wasteland.
+When you notice they enter a tent covered in the same markings as on your body and the elder's.
+Do you enter the tent or make a run for it?
+
+(1)
+You slowly walk toward the tent...
+(end 1)
+(2)
+You are too tired to run, you decide to enter the tent...
+(end 2)
+
+You enter the tent to reveal a group of elders sitting in a circle all covered in similar marks.
+You are gestured to the center of the room where the elders give you a look of concern.
+Do you ask about their concern or stay quiet?
+1 = Ask, 2 = Stay Quiet
+
+(1)
+You ask about their concerned faces, answered only with silence...
+(end1)
+(2)
+You stay quiet, as their concerned faces unfleeting.
+(end 2)
+
+Finally one of the elders speaks up,
+'Water is running short in our village, we are convinced that you are the chosen one.'
+Another elder stands and starts to speak,
+'884 million people are without clean water!'
+Another elder quickly mumbles, 'That's more than 11% of the world's population.'
+
+'Every minute a child dies of water related illness,' continued the elder,
+'840,000 people die each year from water related disease, all of these could be prevented!'
+'You have the power to stop this!' adds another elder.
+'Yes! the prophecy!' chimes another.
+'Long ago, before water pollution and drought, there was an ancient stone that rested in a cave'
+'The stone kept all water on earth clean! Then an evil being known as Pollutoron took the rock from its resting place'
+'You must climb Mt. Pollution to get the rock back and return it to the cave!'
+
+Are you the chosen one?
+1 = YES!, 2 = Maybe?, 3 = NO!
+
+(1)
+You stand up, and with nothing in your way you traverse to Mt. Pollution!
+(end 1)
+(2)
+Scared for the journey ahead, you look around, but the affirmative looks of all the elders convinces you!
+You leave the tent confident in your ability to traverse Mt. Pollution
+(end 2)
+(3)
+You think that there's no way to do this! Thinking it an impossible task, you decide to give up.
+But then you remember how these people saved your life and decide to continue on!
+(end 3)
