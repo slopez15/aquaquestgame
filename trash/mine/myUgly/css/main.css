@@ -1,0 +1,159 @@
+/*a minimum of six (6) styles*/
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(#FFFFFF, #0A64A4);
+    background-repeat: no-repeat;
+}
+header {
+    background-color: #028E9B;
+    color: #FFFFFF;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+nav {
+    text-align: right;
+    color: #FFFFFF;
+    font-weight: bold;
+    
+    display: block;
+    padding: 15px;
+
+    background: #96000E;
+}
+
+nav ul {
+    list-style-type: none;
+
+    text-align: right;
+    font-size: 1.2em;
+
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+
+    margin: auto;
+    padding: 15px;
+    padding-left: 0;
+
+}
+
+nav li {
+    display: inline;
+    padding: 0.25em 0.75em;
+}
+
+nav a {
+    text-decoration: none;
+    transition-duration: 3s;
+    transition-timing-function: ease-out;
+    transition-property: color;
+}
+
+nav a:link {
+    color: #000033;
+}
+
+nav a:visited {
+    color: azure;
+}
+
+nav a:hover {
+    color: #FFFFFF;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    margin-top: 0;
+}
+
+h2 {
+    color: #3399CC;
+    font-family: Georgia, "Times New Roman", serif;
+    text-shadow: 1px 1px 1px #CCCCCC;
+}
+
+h3 {
+    color: #000033;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+main ul {
+    list-style-image: url(marker.gif);
+}
+
+footer {
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", serif;
+
+    /*margin-left: 190px;*/
+    clear: both;
+    padding: 20px;
+
+    background-color: #FFFFFF;
+}
+
+.name {
+    color: #870032;
+    font-weight: bold;
+}
+
+#contact {
+    font-size: 90%;
+}
+
+#wrapper {
+    color: black;
+    font-family: Georgia, Arial, Tahoma, Verdana, Helvetica, sans-serif, "Times New Roman";
+
+    margin: auto;
+    width: 80%;
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px 3px #333333;
+
+    background-color: #508EBA;
+    background: white;
+    background-repeat: no-repeat;
+}
+
+main {
+    padding: 1px 20px 20px 20px;
+    display: block;
+    background-color: #FFFFFF;
+    padding-left: 30px;
+}
+
+/*Configure Support of HTML5. To configure most older browsers to render HTML5 block display elements as expected*/
+
+header,
+main,
+nav,
+footer {
+    display: block;
+}
+
+
+input,
+textarea {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    margin-left: 130px;
+}
+
+/*validated by https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fspring17b-slopez15-slopez15.c9users.io%2Fcis300%2FFinal%2520Project%2Fslopez15-FinalProject%2Fcss%2Fmain.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en*/

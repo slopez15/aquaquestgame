@@ -1,0 +1,10 @@
+prompt
+through the walls, shuffling noises can be heard. can't tell what they're up to.
+
+story
+the room is hot
+
+button
+stroke fire 
+
+notifyGradient

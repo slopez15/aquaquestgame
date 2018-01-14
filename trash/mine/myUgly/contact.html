@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Saul Lopez :: Home</title>
+    <meta charset="utf-8">
+    <meta name="description" content="This page is a profile page for Saul Lopez, made by Saul Lopez."><!--maybe do a small bio instead...-->
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><!--shim for html5-->
+</head>
+
+<!--
+Second page will be the contact page. In this page, I will provide a means of contacting me. I will start with a simple
+mail to and, if I have time, create a form in the page the user can fill to email me.
+
+Fourth page, ‘Contact me’, will be a page where people can contact me with a form besides the email links
+
+
+I plan in using a form in my contacts page to collect information from users to subscribe for emails or to send and
+receive emails, or even to obtain page feedback on how I can further develop my page or projects, or feed.
+The importance of a contact form is that the users can message me anything they would like to message to me. The
+importance of a feedback form, is to provide feedback concerning how I can further develop my page, projects or
+feed. The importance of subscriptions is understanding what my viewers find most important to them.
+
+
+One (1) form with four (4) fields minimum. 
+can use action=”#”. 
+can use action="http://webdevbasics.net/scripts/demo.php" 
+
+-->
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Saul Lopez</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutMe.html">About Me</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="pastWork.html">Past Work</a></li>
+                <li><a href="currentWork.html">Current Work</a></li>
+                <li><a href="feed.html">Feed Page</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <main>
+            <h2>Contact</h2>
+            <h3>Contact Me!</h3>
+            <p> Required fields are marked with an asterisk *.</p>
+            <form method="post" action="http://webdevbasics.net/scripts/demo.php">
+                <label for="myFName">*First Name: </label>
+                <input type="text" name="myFName" id="myFName" required/>
+
+                <label for="myLName">*Last Name: </label>
+                <input type="text" name="myLName" id="myLName" required/>
+
+                <label for="myEmail">*E-mail Address: </label>
+                <input type="email" name="myEmail" id="myEmail" size=35 maxlength="12" required/>
+
+                <label for="myPhone">Phone Number: </label>
+                <input type="tel" name="myPhone" id="myPhone" />
+
+                <label for="myComments">*Comments: </label>
+                <textarea name="myComments" id="myComments" rows="10" cols="40" required> </textarea>
+
+                <input type="submit" value="Submit">
+            </form>
+            <div id="contact">
+                <span class="name">Saul Lopez</span><br> 7001 E Williams Field Rd<br> Mesa, AZ 85212<br><br>
+                <span id="desktop">480-628-0459</span>
+            </div> &nbsp;
+        </main>
+        <footer>
+            <small>Copyright &copy; 2017 Saul Lopez<br><a href="mailto:slopez15@asu.edu">slopez15@asu.edu</a></small>
+        </footer>
+    </div>
+</body>
+
+</html>
